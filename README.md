@@ -19,7 +19,7 @@ This project involves scraping comments from HPCL (Hindustan Petroleum Corporati
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone [repository_url]
+    git clone https://github.com/aishwarayajimin/Comment-Scrapper-of-Hpcl-YouTube_Playlists-and-Sentiment-Analysis
     cd repository_name
     ```
 
